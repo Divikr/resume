@@ -1,0 +1,171 @@
+{
+  "name": "Divith KR",
+  "title": "Junior Developer",
+  "headline": "JavaScript | React.js | Node.js | MongoDB | PostgreSQL",
+  "location": "Bengaluru",
+  "contact": {
+    "email": "divith2526@gmail.com",
+    "phone": "9353473258"
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/divith-k-r/",
+    "github": "https://github.com/Divikr",
+    "portfolio": "https://divith.onrender.com"
+  },
+  "profile_summary": "Junior Developer with hands-on experience in Full Stack Development using JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript, and PostgreSQL. Currently working at Curatal after successfully completing a Full Stack Developer Internship, contributing to scalable admin-side platforms and production-ready web applications. Experienced in building secure REST APIs, responsive user interfaces, database-driven backend systems, and performance-optimized applications across the MERN stack. Contributed to key modules including Badges, Coaching, Mentor Platform, Candidate Feedback, and Women in Tech initiatives. Comfortable working in Agile environments with cross-functional teams using Jira, GitLab, Postman, and modern development workflows.",
+  "skills": {
+    "languages": [
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "frontend": [
+      "React.js",
+      "Redux",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material UI (MUI)"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs"
+    ],
+    "databases": [
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Postman",
+      "Figma",
+      "VS Code",
+      "Jira"
+    ],
+    "other": [
+      "Authentication (JWT, OAuth)",
+      "API Integration",
+      "Responsive UI Development"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Junior Developer",
+      "company": "Curatal",
+      "location": "Bengaluru",
+      "start_date": "Apr 2026",
+      "end_date": "Present",
+      "bullets": [
+        "Promoted to Junior Developer after successfully completing a Full Stack Developer Internship and contributing to core platform development.",
+        "Working on scalable admin-side systems and internal platforms including Salary Predictor, Coaching and Mentoring modules.",
+        "Developing and maintaining secure REST APIs, backend services, and responsive frontend components using React.js, Node.js, Express.js, and PostgreSQL.",
+        "Optimizing application performance, improving database queries, fixing production issues, and implementing feature enhancements across the platform.",
+        "Collaborating with cross-functional teams in Agile environments using Jira, GitLab, and Postman for task management, testing, and deployment workflows."
+      ]
+    },
+    {
+      "role": "Full Stack Developer Intern",
+      "company": "Curatal",
+      "location": "Bengaluru",
+      "start_date": "Sep 2025",
+      "end_date": "Mar 2026",
+      "bullets": [
+        "Contributed to production-ready admin modules including Badges, Candidate Feedback and CRM integration.",
+        "Built and integrated secure backend APIs with authentication, validation, and role-based access control mechanisms.",
+        "Developed responsive frontend interfaces and enhanced backend functionalities using React.js, Node.js, Express.js, and PostgreSQL.",
+        "Worked closely with product and development teams to debug issues, improve workflows, and deliver scalable application features.",
+        "Participated in Agile sprint cycles, API testing, bug fixing, and performance optimization activities across dashboards and internal systems."
+      ]
+    },
+    {
+      "role": "Full Stack Development Bootcamp",
+      "company": "Brototype",
+      "location": "Bengaluru",
+      "start_date": "2024",
+      "end_date": "2025",
+      "bullets": [
+        "Completed an intensive self-learning full-stack development program focused on real-world application building.",
+        "Developed multiple production-style projects using MERN stack technologies and PostgreSQL databases.",
+        "Worked on the complete application lifecycle including frontend UI, backend APIs, deployment, authentication, and testing.",
+        "Implemented CRUD operations, API integrations, responsive layouts, and secure authentication systems across projects.",
+        "Collaborated using Git/GitHub and practiced Agile and Scrum development methodologies."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "RevGear",
+      "subtitle": "E-Commerce Platform",
+      "stack": [
+        "Express.js",
+        "MongoDB",
+        "EJS",
+        "Tailwind CSS"
+      ],
+      "bullets": [
+        "Developed a complete e-commerce platform with user authentication, product listings, shopping cart, order placement, and admin-side inventory management.",
+        "Implemented secure session handling, password hashing, and admin authorization to ensure application security and protect user data.",
+        "Designed optimized MongoDB schemas to reduce redundant queries and improve database performance by nearly 30%.",
+        "Built a mobile-first responsive UI using Tailwind CSS to ensure fast load times and consistent user experience across devices."
+      ]
+    },
+    {
+      "name": "Budget-Plan",
+      "subtitle": "Budget Tracking App",
+      "stack": [
+        "React.js",
+        "HTML",
+        "CSS"
+      ],
+      "bullets": [
+        "Created an interactive budgeting system enabling users to add, track, and categorize expenses with real-time visual feedback.",
+        "Implemented dynamic state-driven calculations ensuring accurate balance updates, category totals, and monthly summaries.",
+        "Integrated lightweight chart visualizations for clear financial insights and spending pattern analysis.",
+        "Designed a clean and responsive UI focused on simplicity, accessibility, and usability across devices."
+      ]
+    },
+    {
+      "name": "Touch-Evento",
+      "subtitle": "Event Invitation Platform",
+      "stack": [
+        "React.js"
+      ],
+      "bullets": [
+        "Developed a customizable digital invitation platform allowing hosts to create and share event invites with RSVP tracking.",
+        "Implemented real-time RSVP updates enabling hosts to monitor guest confirmations and attendance status instantly.",
+        "Optimized React component structure and state management for smoother interactions and faster rendering performance.",
+        "Built a modern responsive UI ensuring seamless usability across desktops, tablets, and mobile devices."
+      ]
+    },
+    {
+      "name": "Study Bangalore International",
+      "subtitle": "Admission Booking Website",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "bullets": [
+        "Built a responsive admission booking and enquiry platform designed for accessibility and improved user experience.",
+        "Improved navigation and user flow by structuring clear step-by-step form sections for faster submissions.",
+        "Implemented robust client-side form validations to improve data accuracy and prevent invalid entries.",
+        "Optimized frontend structure and asset loading to improve page performance and reduce load times."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "NMC Sullia, Mangalore University",
+      "degree": "Bachelor of Science (Physics, Mathematics, Computer Science)",
+      "end_year": 2023
+    },
+    {
+      "institution": "Alva’s PU College, Moodbidri",
+      "degree": "Pre-University Course (Science Stream)",
+      "end_year": 2019
+    }
+  ]
+}
